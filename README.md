@@ -1,7 +1,7 @@
 # Heroes-of-OOP
-Simple little game.
-Need to rewrite all of it, create more classes and methods to make it be.. Well, not spaghetti.
-Currently it's organized like absolute c###, and it has a lot of unnecessary "if else" statements, along with some variables and attributes which are never even used.
 
-I'll do all of that during my free time, I suppose.. But until then, version 1.0 is the current version, it's made to just work, that's all it does.
-The defense mechanic might be broken as well, but I don't really have the time nor patience to make it work right now.
+Nuffin' special, just a game I made for class.
+Do be aware of the following: I was extremely unexperienced with doing anything that required more than a couple of classes, methods and lines of code at the time.
+It's a disorganized mess that somehow works (or seems to work), and I really do need to rewrite all of it.
+At it's current state, it works, but it's nothing short of a bloody mess.
+All the programming sins in a single zip file.
